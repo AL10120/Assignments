@@ -1,0 +1,10 @@
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\obj\Debug\PizzaOrderAllanL.csprojAssemblyReference.cache
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\obj\Debug\PizzaOrderAllanL.Properties.Resources.resources
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\obj\Debug\PizzaOrderAllanL.csproj.GenerateResource.cache
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\obj\Debug\PizzaOrderAllanL.csproj.CoreCompileInputs.cache
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\bin\Debug\PizzaOrderAllanL.exe.config
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\bin\Debug\PizzaOrderAllanL.exe
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\bin\Debug\PizzaOrderAllanL.pdb
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\obj\Debug\PizzaOrderAllanL.exe
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\obj\Debug\PizzaOrderAllanL.pdb
+C:\Users\Mrvelo100\Downloads\GitHub\Assignments\PizzaOrderAllanL\PizzaOrderAllanL\obj\Debug\PizzaOrderAllanL.frmPizzaOrder.resources
